@@ -94,7 +94,7 @@ const Toolbar: ToolbarComponent = React.forwardRef<HTMLDivElement, ToolbarProps>
           calendarDate={calendarDate}
           onOk={onOk}
         >
-          {locale?.ok}
+          okkkkkkksss
         </SubmitButton>
       </div>
     </Stack>
