@@ -48,7 +48,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rsuite/rsuite.git"
+    "url": "git@github.com:HarveyNgo/test-rsuite.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.20.1",
